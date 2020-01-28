@@ -1,1 +1,3 @@
-Strubg
+﻿Strubg
+
+concat : 문자열 합친다
